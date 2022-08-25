@@ -8,13 +8,10 @@
 
 <p align="left"> <a href="https://twitter.com/tinakan11" target="blank"><img src="https://img.shields.io/twitter/follow/tinakan11?logo=twitter&style=for-the-badge" alt="tinakan11" /></a> </p>
 
-- 🔭 I’m currently working on [Easy-Rider-Bus-Company](https://github.com/iturkan6/Easy-Rider-Bus-Company)
-
-- 🌱 I’m currently learning **Python proframming language**
 
 - 📝 I regularly write articles on [https://twitter.com/TinaKan11](https://twitter.com/TinaKan11)
 
-- 💬 Ask me about **java, spring, postgresql**
+- 💬 Ask me about **java, springBoot, python, FastAPI,  postgresql, sqlite etc**
 
 - 📫 How to reach me **iturkan6@gmail.com**
 
