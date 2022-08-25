@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **java, spring, postgresql**
 
-- 📫 How to reach me **tina99kan@gmail.com**
+- 📫 How to reach me **iturkan6@gmail.com**
 
 - ⚡ Fun fact **I write terrible code when someone is watching**
 
