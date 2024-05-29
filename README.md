@@ -21,15 +21,15 @@
 
 - 🌱 I’m currently learning **JavaScript and other frontend technologies**
 
-- 📝 I sometimes write articles on [https://twitter.com/iturkan6](https://twitter.com/iturkan6)
+- 📝 I sometimes write articles on [X](https://twitter.com/iturkan6)
 
 - 💬 Ask me about **java, spring boot, backend**
 
-- 📫 How to reach me **iturkan6@gmail.com**
+- 📫 How to reach me: [iturkan6@gmail.com](mailto:iturkan6@gmail.com)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/iturkan6/](https://www.linkedin.com/in/iturkan6/)
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/iturkan6/)
 
-- ⚡ Fun fact **I write terrible code when someone is watching**
+- ⚡ Fun fact: **I write terrible code when someone is watching**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
