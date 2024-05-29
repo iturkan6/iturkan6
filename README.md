@@ -15,7 +15,7 @@
 
 <p align="left">
   <a href="https://twitter.com/iturkan6" target="blank">
-    <img src="https://img.shields.io/twitter/follow/iturkan6?style=for-the-badge" alt="iturkan6" />
+    <img src="https://img.shields.io/twitter/follow/iturkan6?style=for-the-badge&logo=x" alt="iturkan6" />
   </a>
 </p>
 
