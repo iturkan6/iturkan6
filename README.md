@@ -9,21 +9,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iturkan6&label=Profile%20views&color=0e75b6&style=flat" alt="iturkan6" /> </p>
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iturkan6" alt="iturkan6" /></a> </p>-->
-
-<p align="left"> <a href="https://twitter.com/tinakan11" target="blank"><img src="https://img.shields.io/twitter/follow/tinakan11?logo=twitter&style=for-the-badge" alt="tinakan11" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iturkan6" target="blank"><img src="https://img.shields.io/twitter/follow/iturkan6?logo=twitter&style=for-the-badge" alt="iturkan6" /></a> </p>
 
 - 🔭 I’m currently working on **exploring front-end**
 
 - 🌱 I’m currently learning **JavaScript and other frontend technologies**
 
-- 📝 I regularly write articles on [https://twitter.com/TinaKan11](https://twitter.com/TinaKan11)
+- 📝 I regularly write articles on [https://twitter.com/iturkan6](https://twitter.com/iturkan6)
 
 - 💬 Ask me about **java, spring boot, backend**
 
 - 📫 How to reach me **iturkan6@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/iturkan/](https://www.linkedin.com/in/iturkan/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/iturkan6/](https://www.linkedin.com/in/iturkan6/)
 
 - ⚡ Fun fact **I write terrible code when someone is watching**
 
@@ -31,8 +29,8 @@
 <p align="left">
 <a href="https://twitter.com/iturkan6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iturkan6" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iturkan6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iturkan6" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/iturkan6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/iturkan6" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/iturkan6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/iturkan6/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/iturkan6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/iturkan6" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/iturkan6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/iturkan6/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
