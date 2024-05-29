@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Türkan</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-<!--
 <p align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/47e358432b88d0ffdc582cfee1c637cfa07414d43dc78333d8b1da085f404dba/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a49675866346867624843654b69587076742f67697068792e676966">
     <img width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1sdXZyeXN1NzFqN2dnZmdseXE5eXpxeWl2NTVqenRxdGl4YTM3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QlRrPDRnT5QZeKUdiJ/giphy.gif" data-canonical src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" style="max-width: 100%;">
   </a>
 </p>
--->
 
+<!--
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=iturkan6&label=Profile%20views&color=0e75b6&style=flat" alt="iturkan6" />
 </p>
+-->
 
 <p align="left">
   <a href="https://twitter.com/iturkan6" target="blank">
